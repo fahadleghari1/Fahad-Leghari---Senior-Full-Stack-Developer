@@ -35,8 +35,7 @@ Bachelor’s in Computer Science
 Plus years of real-world experience shipping high-performance web apps that solve real problems.
 GitHub Portfolio : https://github.com/fahadleghari1
 Upwork Profile : https://www.upwork.com/freelancers/~0128dae81e965a4456
-
-Email: fahadleghari.dev@gmail.com
+Email: fahadleghari29@gmail.com
 
 Services Offered
 Full Website Development (WordPress, Laravel, Shopify)
