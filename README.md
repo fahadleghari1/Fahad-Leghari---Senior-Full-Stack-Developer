@@ -2,22 +2,22 @@
 ![image](https://github.com/user-attachments/assets/c95e7470-fe5d-430b-9c1b-5b776a40bac8)
 
 Introduction
-Hello! I'm Fahad Leghari, a Senior Full-Stack Web Developer with 9+ years of hands-on experience delivering powerful websites, eCommerce platforms, and automation systems. I specialize in WordPress (custom themes/plugins), WooCommerce, PHP/Laravel, and mobile-first UI/UX design. I’m proud to be Top Rated on Upwork with a 100% job success rate and 25+ successful projects.
+Hello! I'm Fahad Leghari, a Senior Full-Stack Web Developer with 6+ years of hands-on experience delivering powerful websites, eCommerce platforms, and automation systems. I specialize in WordPress (custom themes/plugins), WooCommerce, PHP/Laravel, and mobile-first UI/UX design. I’m proud to be Top Rated on Upwork with a 100% job success rate and 25+ successful projects.
 
 Whether it's launching a pixel-perfect site, integrating APIs, or scaling a WooCommerce store to $2M+ in annual sales — I craft solutions that look great, load fast, and work flawlessly.
 
 Core Skills & Technologies
 WordPress Development – Custom themes, Elementor Pro, plugins, ACF, WooCommerce
 
-E-commerce – Custom WooCommerce setups, Shopify theme tweaks, checkout flows, Stripe & PayPal
+E-commerce : Custom WooCommerce setups, Shopify theme tweaks, checkout flows, Stripe & PayPal
 
-Backend – PHP, Laravel, REST APIs, MySQL, authentication, middleware
+Backend : PHP, Laravel, REST APIs, MySQL, authentication, middleware
 
-Frontend – HTML5, CSS3, Tailwind, Bootstrap, JavaScript (vanilla + jQuery)
+Frontend : HTML5, CSS3, Tailwind, Bootstrap, JavaScript (vanilla + jQuery)
 
-DevOps & Tools – Git, Docker, cPanel, Cloudflare, SiteGround, WP Engine
+DevOps & Tools : Git, Docker, cPanel, Cloudflare, SiteGround, WP Engine
 
-UI/UX & Optimization – Mobile-first design, Core Web Vitals, speed tuning, accessibility
+UI/UX & Optimization : Mobile-first design, Core Web Vitals, speed tuning, accessibility
 
 Key Achievements
 Built and maintained a HIPAA-compliant patient portal for a US-based healthcare startup
