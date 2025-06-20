@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <img src="![image](https://github.com/user-attachments/assets/5593eb92-5415-4885-b729-482ec9c74424)
-" alt="Fahad Leghari - Profile Photo" class="profile" />
+   [image](https://github.com/user-attachments/assets/5593eb92-5415-4885-b729-482ec9c74424)
 </head>
 <body>
   <section>
