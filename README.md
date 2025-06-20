@@ -1,10 +1,10 @@
-# Fahad-Leghari - Senior-Full-Stack-Developer
+# Fahad Leghari | Senior Full-Stack-Developer
 ![image](https://github.com/user-attachments/assets/c95e7470-fe5d-430b-9c1b-5b776a40bac8)
 
 Introduction
 Hello! I'm Fahad Leghari, a Senior Full-Stack Web Developer with 6+ years of hands-on experience delivering powerful websites, eCommerce platforms, and automation systems. I specialize in WordPress (custom themes/plugins), WooCommerce, PHP/Laravel, and mobile-first UI/UX design. I’m proud to be Top Rated on Upwork with a 100% job success rate and 25+ successful projects.
 
-Whether it's launching a pixel-perfect site, integrating APIs, or scaling a WooCommerce store to $2M+ in annual sales — I craft solutions that look great, load fast, and work flawlessly.
+Whether it's launching a pixel-perfect site, integrating APIs, or scaling a WooCommerce store to $2M+ in annual sales, I craft solutions that look great, load fast, and work flawlessly.
 
 Core Skills & Technologies
 WordPress Development – Custom themes, Elementor Pro, plugins, ACF, WooCommerce
